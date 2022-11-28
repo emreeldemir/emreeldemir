@@ -1,10 +1,12 @@
-<h2 align="center">Hello there! I'm Emre</h2>
+<h2 align="center">Hi there! I'm Emre</h2>
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" height="230"/>
 
 - Computer Science & Engineering student at Akdeniz University.
 - I am interested in software technologies and I try to improve myself more and more every day.
 - How to reach me: **emreeldemir893@gmail.com**
+
+---
 
 <h3 align="left">Connect with me: </h3>
   <a href="https://linkedin.com/in/emreeldemir" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="emreeldemir" height="30" width="30" /></a>
