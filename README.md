@@ -2,6 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" height="230"/>
 
+- Computer Science & Engineering student at Akdeniz University.
 - I am interested in software technologies and I try to improve myself more and more every day.
 - How to reach me: **emreeldemir893@gmail.com**
 
