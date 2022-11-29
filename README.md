@@ -9,9 +9,11 @@
 ---
 
 <h3 align="left">Connect with me: </h3>
-  <a href="https://linkedin.com/in/emreeldemir" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="emreeldemir" height="30" width="30" /></a>
-  <a href="https://stackoverflow.com/users/20169277/emre-eldemir" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" height="45" width="45" /></a>
-  <a href="https://instagram.com/emreeldemirx" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="emreeldemirx" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/emreeldemir" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://stackoverflow.com/users/20169277/emre-eldemir" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="StackOverflow" height="45" width="45" /></a>
+  <a href="https://www.hackerrank.com/emreeldemir" target="blank" rel=”noopener”><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/hackerrank-3629415-3032408.png" alt="HackerRank" height="30" width="30" /></a>
+  <a href="https://instagram.com/emreeldemirx" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" height="30" width="30" /></a>
+  
 
 <h3 align="left">Technologies and Tools:</h3>
   <a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
