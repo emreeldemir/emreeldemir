@@ -26,7 +26,4 @@
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreeldemir&hide_border=true&theme=dracula&layout=compact" align="left" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=emreeldemir&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="left" />
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=emreeldemir&show_icons=true&theme=dracula&count_private=true&hide_border=true"  />
