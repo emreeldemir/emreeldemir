@@ -23,3 +23,8 @@
   <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" width='35' height="35" /></a>
   <a href="https://developer.android.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/872px-Android_robot.svg.png" alt="Android" width="35" height="35"/> </a>
 
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreeldemir&show_icons=true&locale=en&layout=compact" alt="emreeldemir" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emreeldemir&show_icons=true&locale=en" alt="emreeldemir" /></p>
