@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me: </h3>
 
 - Email: **emreeldemir893@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/emreeldemir/** 
+- LinkedIn: **www.linkedin.com/in/emreeldemir/** 
 
 <h3 align="left">Technologies and Tools:</h3>
   <a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
@@ -23,4 +23,4 @@
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreeldemir&hide_border=true&theme=dracula&layout=compact" align="left" />
-<img src="https://github-readme-stats.vercel.app/api?username=emreeldemir&show_icons=true&theme=dracula&count_private=true&hide_border=true"  />
+<img src="https://github-readme-stats.vercel.app/api?username=emreeldemir&show_icons=true&theme=dracula&count_private=true&hide_border=true" width="397" />
