@@ -1,5 +1,6 @@
 <h2 align="center">Hi there! I'm Emre</h2>
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" height="250"/>
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="275" height="245"/>
 
 - Computer Science & Engineering student at Akdeniz University
 - Currently learning Android Development with Java & Kotlin
