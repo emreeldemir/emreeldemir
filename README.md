@@ -3,7 +3,8 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="275" height="245"/>
 
 - Jr. Software Developer | Computer Science & Engineering at Akdeniz University
-- Someone who enjoys software development, playing classical guitar, cycling and riding a motorcycle
+- Someone who enjoys software development, playing classical guitar,<br>
+cycling and riding a motorcycle
 - Currently learning Android Development with Java & Kotlin
 
 ---
