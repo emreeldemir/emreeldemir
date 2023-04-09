@@ -32,4 +32,4 @@ cycling and riding a motorcycle
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreeldemir&hide_border=true&theme=dracula&layout=compact&langs_count=8&hide_progress=true" align="left" />
-<img src="https://github-readme-stats.vercel.app/api?username=emreeldemir&show_icons=true&theme=dracula&count_private=true&hide_border=true" width="397" />
+<img src="https://github-readme-stats.vercel.app/api?username=emreeldemir&show_icons=true&theme=dracula&count_private=true&hide_border=true&hide=issues&include_all_commits=true&line_height=30" width="397" />
