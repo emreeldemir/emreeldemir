@@ -8,18 +8,18 @@
 
 ---
 
+- **Front‑End & Back-End:** Java, JavaScript, HTML, CSS, Bootstrap <br>
+- **Database:** MSSQL Server (T-SQL), MySQL <br>
+- **Mobile (Android):** Kotlin, Java <br>
+- **Principles:** OOP, SOLID, Clean Code <br>
+- **Others:** Git VCS, WSL (Ubuntu), Figma (GUI)
+
+---
+
 <h3 align="left">Connect with me: </h3>
 
 - Email: **emreeldemir893@gmail.com**
 - LinkedIn: **www.linkedin.com/in/emreeldemir** 
-
----
-
-**Front‑End & Back-End:** Java, JavaScript, HTML, CSS, Bootstrap <br>
-**Database:** MSSQL Server (T-SQL), MySQL <br>
-**Mobile (Android):** Kotlin, Java <br>
-**Principles:** OOP, SOLID, Clean Code <br>
-**Others:** Git VCS, WSL (Ubuntu), Figma (GUI)
 
 ---
 
