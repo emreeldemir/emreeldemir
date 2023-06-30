@@ -2,7 +2,7 @@
 
 <!-- <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="275" height="245"/> -->
 
-- Jr. Software Developer | Computer Science & Engineering at Akdeniz University
+- Software Developer | Scrum Master | Computer Science & Engineering
 - Currently learning Android Development with Java & Kotlin
 - Someone who enjoys software development, playing classical guitar, cycling and riding a motorcycle
 
@@ -11,7 +11,7 @@
 - **Front‑End & Back-End:** Java, JavaScript, HTML, CSS, Bootstrap <br>
 - **Database:** MSSQL Server (T-SQL), MySQL <br>
 - **Mobile (Android):** Kotlin, Java <br>
-- **Principles:** OOP, SOLID, Clean Code <br>
+- **Principles:** OOP, SOLID, Clean Code, Agile Methodology <br>
 - **Others:** Git VCS, WSL (Ubuntu), Figma (GUI)
 
 ---
@@ -23,7 +23,7 @@
 
 ---
 
-<img src="https://github-readme-stats-emreeldemir.vercel.app/api/top-langs/?username=emreeldemir&hide_border=true&theme=dracula&layout=compact&langs_count=8&hide_progress=true" align="left" />
+<img src="https://github-readme-stats-emreeldemir.vercel.app/api/top-langs/?username=emreeldemir&hide_border=true&theme=dracula&layout=compact&langs_count=6&hide_progress=false" align="left" />
 <img src="https://github-readme-stats-emreeldemir.vercel.app/api?username=emreeldemir&show_icons=true&theme=dracula&count_private=true&hide_border=true&hide=issues&include_all_commits=true&line_height=30" width="397" />
 
 
