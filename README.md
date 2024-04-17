@@ -2,14 +2,12 @@
 
 <!-- <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="275" height="245"/> -->
 
-- Software Developer | Scrum Master | Computer Science & Engineering
-- Currently learning Android Development with Java & Kotlin
-- Someone who enjoys software development, playing classical guitar, cycling and riding a motorcycle
+- Software Developer | Computer Science & Engineering
 
 ---
 
-- **Front‑End & Back-End:** Java, JavaScript, HTML, CSS, Bootstrap <br>
-- **Database:** MSSQL Server (T-SQL), MySQL <br>
+- **Front‑End & Back-End:** .NET, React, Java, JavaScript <br>
+- **Database:** SQL Server, MySQL <br>
 - **Mobile (Android):** Kotlin, Java <br>
 - **Principles:** OOP, SOLID, Clean Code, Agile Methodology <br>
 - **Others:** Git VCS, WSL (Ubuntu), Figma (GUI)
